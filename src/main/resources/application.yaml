@@ -4,5 +4,5 @@ spring.datasource:
    # useSSL=false 表示不使用SSL加密
    # serverTimezone=CST 指定服务器的时区，CST（China Standard Time）
    url: jdbc:mysql://127.0.0.1:3306/kemao_3?useSSL=false&serverTimezone=CST
-   username: root
+   username: kemao_3
    password: 1234
