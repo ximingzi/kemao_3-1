@@ -5,6 +5,6 @@ spring.datasource:
    # serverTimezone=CST 指定服务器的时区，CST（China Standard Time）
    url: jdbc:mysql://127.0.0.1:3306/kemao_3?useSSL=false&serverTimezone=CST
    username: root
-   password: 1234
+   password: root
 
 server.port: 8080
